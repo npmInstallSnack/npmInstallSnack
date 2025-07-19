@@ -1,5 +1,6 @@
 ## Hi there 👋
-💻 I'm a total coding & gaming nerd who loves to break a computer just so I can fix it. 
+🍩 The world should eat more doughnuts. 🍩
+
 Currently becoming fluent in:
 
 - HTML (A+)

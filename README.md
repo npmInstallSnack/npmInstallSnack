@@ -12,4 +12,4 @@ Currently becoming fluent in:
 - Git (D) 😅
 - C# (D)
 
-![Snake Game](https://github.com/npmInstallSnack/npmInstallSnack/blob/output/github-contribution-grid-snake.svg)
+![Snake Game](https://github.com/npmInstallSnack/npmInstallSnack/blob/output/github-contribution-grid-snake-dark.svg)

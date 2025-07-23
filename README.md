@@ -1,6 +1,9 @@
 ## Hi there 👋
 🍩 The world should eat more doughnuts. 🍩
 
+> [!NOTE]  
+> In light of the recent attack on the MacWipe repo where a now-banned user attempted to rip it off for virus distribution, MacWipe has been taken down until further notice.
+
 Currently becoming fluent in:
 
 - HTML (A+)
